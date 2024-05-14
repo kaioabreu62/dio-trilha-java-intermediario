@@ -13,3 +13,6 @@ Repositório para exercícios de Java intermediário pela DIO
 - Repositório sobre Map [**MAP**](https://github.com/cami-la/collections-java-api-2023/tree/master/src/main/java/map)
 
 - Repositório sobre ComparableXComparator [**COMPARABLE X COMPARATOR**](https://github.com/cami-la/collections-java-api-2023/tree/master/src/main/java/comparableXcomparator)
+
+# Ganhando Produtividade com Stream API e Java
+- Repositório Stream API [**STREAM API**](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java)
