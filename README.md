@@ -15,4 +15,7 @@ Repositório para exercícios de Java intermediário pela DIO
 - Repositório sobre ComparableXComparator [**COMPARABLE X COMPARATOR**](https://github.com/cami-la/collections-java-api-2023/tree/master/src/main/java/comparableXcomparator)
 
 # Ganhando Produtividade com Stream API e Java
-- Repositório Stream API [**STREAM API**](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java)
+- Repositório sobre Stream API [**STREAM API**](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java)
+- Repositório sobre Functional Interface [**FUNCTIONAL INTERFACE**](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java/tree/master/src/functional_interface)
+- Repositório sobre Classe Optional [**CLASSE OPTIONAL**](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java/tree/master/src/optional)
+
